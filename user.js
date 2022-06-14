@@ -20,7 +20,7 @@ const userSchema = {
         default: null,
     },
 };
-
+// subTree 커밋테스트
 // 커밋 테스트
 module.exports = userSchema
 //하는김에 connection 방식도 바꾸자.
